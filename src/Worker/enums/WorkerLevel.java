@@ -1,4 +1,4 @@
-package Worker.entities.enums;
+package Worker.enums;
 
 public enum WorkerLevel {
 
